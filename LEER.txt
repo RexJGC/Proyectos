@@ -1,0 +1,3 @@
+la base de datos fue echa en phpmyadmin la base de datos lleva por nombre "loginapp" y al ser creada en phpmyadmin solo se exporta el "loginapp.sql" y la base ya estaria lista para funcionar
+
+se trata de un sitio web simple con dos tablas una que gestina los usuarios para el login y la otra contiene citas almacenadas 
